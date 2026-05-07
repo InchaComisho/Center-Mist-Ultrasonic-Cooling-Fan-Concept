@@ -187,7 +187,7 @@ A passive self-regulating solution is required.
 
 This proposal introduces:
 
-# Reverse-Pitch Spiral Water Return Geometry
+# Spiral Water Return Structure
 
 inside the hollow shaft.
 
@@ -258,7 +258,7 @@ Existing technologies already include:
 * Hollow shaft machinery
 * Peripheral drive systems
 
-However, no known implementation currently combines:
+However, To the best of the authors' knowledge, no known implementation currently combines:
 
 * Center-mist fan injection
 * Hollow-shaft mist transport
