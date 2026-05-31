@@ -403,6 +403,22 @@ https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
 https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
 
+## Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding — OBS × UMC ocean temperature reduction framework.
+
+https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+
+## Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding — Modular DPC architecture combining OBS and UMC.
+
+https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+## Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation — AI-controlled urban mist cooling concept.
+
+https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation
+
+## Urban-Water-Circulation-System-UEPWI — Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.
+
+https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
+
 ---
 
 # Keywords
