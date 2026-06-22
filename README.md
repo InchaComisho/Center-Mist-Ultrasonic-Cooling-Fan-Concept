@@ -13,6 +13,13 @@ Free to use, modify, redistribute, translate, manufacture, commercialize, and ad
 
 ---
 
+# DIY Small Fan and Offset Drive Optimization
+
+- [DIY Small Fan, Offset Drive Optimization, and PET Bottle Cap Product Concept](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
+  Japanese extension page outlining a step-by-step development path from a simple ultrasonic mist generator plus small fan setup to 3D-printed ducts, offset-drive prototypes, and a future PET bottle cap-type product concept.
+
+---
+
 # Overview
 
 This repository proposes a next-generation evaporative cooling structure based on:
