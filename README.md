@@ -18,6 +18,9 @@ Free to use, modify, redistribute, translate, manufacture, commercialize, and ad
 - [DIY Small Fan, Offset Drive Optimization, and PET Bottle Cap Product Concept](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
   Japanese extension page outlining a step-by-step development path from a simple ultrasonic mist generator plus small fan setup to 3D-printed ducts, offset-drive prototypes, and a future PET bottle cap-type product concept.
 
+- [PET Bottle Cap Edition Global Minimum Standard](docs/PET_BOTTLE_CAP_EDITION_GLOBAL_MINIMUM_STANDARD_ja.md)
+  Japanese concept page for a cap-mounted mist-and-fan unit using 28mm-class PET bottle necks as a widely available water-tank interface, with safety, low-center-of-gravity battery placement, dry-region use, and Cooling Credit evaluation notes.
+
 ---
 
 # Overview
