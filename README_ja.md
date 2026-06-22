@@ -17,6 +17,13 @@
 
 ---
 
+## クーリングクレジット多言語ポータル
+
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  クーリングクレジット制度、MRV、Score Estimator、実装ポートフォリオ、フードロス腐葉土化、単一植生・放置林再生、センター超音波ミスト冷却ファンをつなぐ多言語ポータル。
+
+---
+
 ## DIY・3Dプリンタ向け小型扇風機版とオフセットドライブ最適化
 
 - [DIY小型扇風機版・オフセットドライブ最適化・ペットボトルキャップ型商品化構想](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)

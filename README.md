@@ -15,6 +15,13 @@ Free to use, modify, redistribute, translate, manufacture, commercialize, and ad
 
 ---
 
+## Cooling Credit Multilingual Portal
+
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  A multilingual portal connecting the Cooling Credit framework, MRV, Score Estimator, implementation portfolio, food-waste-to-humus model, monoculture forest regeneration, and the Center-Mist Ultrasonic Cooling Fan concept.
+
+---
+
 # DIY Small Fan and Offset Drive Optimization
 
 - [DIY Small Fan, Offset Drive Optimization, and PET Bottle Cap Product Concept](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
