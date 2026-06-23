@@ -327,3 +327,11 @@ Center-Mist Cooling, Ultrasonic Mist Fan, Hollow Shaft Cooling, Offset Drive Fan
 #HeatMitigation #UrbanCooling #DesertCooling #PlanetaryCooling  
 #ClimateCooling #DistributedCooling #MechanicalEngineering #FluidDynamics  
 #ThermalRegulation #ArtificialWisdom #WaNode #NaturalComplementScience
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
