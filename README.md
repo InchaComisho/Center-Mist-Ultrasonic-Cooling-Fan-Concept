@@ -584,3 +584,13 @@ https://note.com/inchacomusho/n/n9187db7b2709
 
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
   A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
+
+---
+
+## Related Cooling Credit Business Models
+
+Backlinks to Cooling Credit Framework business-model documents that are closely connected to this repository's implementation and policy design scope.
+
+This positions the concept as a retrofit cooling business model for transit, public facilities, shops, schools, shelters, and similar shared spaces.
+
+- [Center Mist Ultrasonic Cooling Fan Business Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md)

@@ -335,3 +335,13 @@ Center-Mist Cooling, Ultrasonic Mist Fan, Hollow Shaft Cooling, Offset Drive Fan
 
 - [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
+
+---
+
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+交通機関、公共施設、店舗、学校、避難所などに後付けできる冷却事業モデルとして位置づけています。
+
+- [センター超音波ミスト冷却ファン事業モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL_ja.md)
