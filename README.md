@@ -580,6 +580,9 @@ https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## Related Institutional Proposal: Carbon Credit to Cooling Credit
 
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  

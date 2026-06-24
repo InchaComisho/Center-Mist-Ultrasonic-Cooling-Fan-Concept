@@ -23,6 +23,9 @@
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  بوابة بحث متعددة اللغات تربط الاستدامة، وأهداف التنمية المستدامة، والتنقل البيئي، وESG، والتكيف المناخي، وتبريد المدن، ونظام الحضارة، بأرصدة التبريد.
+
 ## صفحات توسعية ذات صلة
 
 - [تحسين نسخة المروحة الصغيرة DIY، والدفع المُزاح، ومفهوم منتج غطاء زجاجة PET](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)  

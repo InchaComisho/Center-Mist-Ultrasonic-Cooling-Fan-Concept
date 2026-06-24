@@ -24,6 +24,9 @@
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
 ## DIY・3Dプリンタ向け小型扇風機版とオフセットドライブ最適化
 
 - [DIY小型扇風機版・オフセットドライブ最適化・ペットボトルキャップ型商品化構想](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
