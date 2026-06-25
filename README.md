@@ -580,6 +580,15 @@ https://note.com/inchacomusho/n/n9187db7b2709
 
 ---
 
+### Global Warming Causal Structure and Cooling Credit
+
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## Related Institutional Proposal: Carbon Credit to Cooling Credit
 
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  

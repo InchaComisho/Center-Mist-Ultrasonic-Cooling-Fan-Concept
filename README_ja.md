@@ -316,6 +316,17 @@
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — 共生科学とバイオシンセシスを自然循環回復として整理する関連フレームワーク。
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
 
+## 関連リンク
+
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [NOTE記事：温暖化の原因と因果関係](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+この因果構造モデルは、温暖化をCO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植物プランクトン、海洋・大気循環など、地球本来の自然冷却機能の弱体化・喪失と接続して整理する。
+
 ## キーワード
 
 Center-Mist Cooling, Ultrasonic Mist Fan, Hollow Shaft Cooling, Offset Drive Fan, Peripheral Drive Fan, Spiral Return Structure, Evaporative Cooling, Passive Water Recovery, Distributed Cooling, Planetary Cooling, Heat Mitigation, Urban Cooling, Desert Cooling, Microclimate Regulation, Thermal Regulation, Climate Cooling Infrastructure, Artificial Wisdom, Wa-Node, Natural Complement Science, Self-Regulating Mechanical Systems, Low Power Cooling, Environmental Engineering, Fluid Dynamics, Mechanical Architecture, Cooling Drone Systems
