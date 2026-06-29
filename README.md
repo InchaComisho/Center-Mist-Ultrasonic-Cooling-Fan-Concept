@@ -586,8 +586,8 @@ https://note.com/inchacomusho/n/n9187db7b2709
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
 - [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
 - [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
-
-
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
 
 ## Related Institutional Proposal: Carbon Credit to Cooling Credit
 
@@ -612,3 +612,10 @@ CC BY 4.0
 
 This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
 Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
+## Related Cooling Credit Business Models
+
+Backlinks to Cooling Credit Framework business-model documents that are closely connected to this repository's implementation and policy design scope.
+
+This positions the concept as a retrofit cooling business model for transit, public facilities, shops, schools, shelters, and similar shared spaces.
+
+- [Center Mist Ultrasonic Cooling Fan Business Model](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md)

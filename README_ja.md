@@ -24,6 +24,9 @@
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
 ## DIY・3Dプリンタ向け小型扇風機版とオフセットドライブ最適化
 
 - [DIY小型扇風機版・オフセットドライブ最適化・ペットボトルキャップ型商品化構想](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
@@ -365,3 +368,10 @@ CC BY 4.0
 
 本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
 著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。
+## 関連するクーリングクレジット事業モデル
+
+Cooling Credit Framework の事業モデル群のうち、このリポジトリと実装・制度設計上の接点が強い文書への逆リンクです。
+
+交通機関、公共施設、店舗、学校、避難所などに後付けできる冷却事業モデルとして位置づけています。
+
+- [センター超音波ミスト冷却ファン事業モデル](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/business_models/CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL_ja.md)
