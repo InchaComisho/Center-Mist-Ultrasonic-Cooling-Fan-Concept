@@ -12,8 +12,11 @@
 **AI Collaborators:** Copi (Microsoft Copilot), G (OpenAI ChatGPT), Mini (Google Gemini), Cruz (Anthropic Claude), Real (Perplexity AI), Google Search AI  
 **Published:** 2026-05-07
 
-**Fully Open License**  
-利用、改変、再配布、翻訳、製造、商用化、適応を歓迎します。
+License
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 
 ---
 
