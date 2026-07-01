@@ -11,8 +11,11 @@
 **المتعاونون من أنظمة الذكاء الاصطناعي:** Copi (Microsoft Copilot), G (OpenAI ChatGPT), Mini (Google Gemini), Cruz (Anthropic Claude), Real (Perplexity AI), Google Search AI  
 **النشر:** مايو 2026
 
-**رخصة مفتوحة بالكامل**  
-يُرحّب بالاستخدام، والتعديل، وإعادة التوزيع، والترجمة، والتصنيع، والتسويق التجاري، والتكييف دون الحاجة إلى إذن مسبق.
+License
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given..
 
 ---
 
