@@ -2,7 +2,7 @@
 
 ## 中空軸・オフセット駆動・スパイラル返水構造による高効率気化冷却
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README.md)  
 > العربية: [README_ar.md](./README_ar.md)
 
 > 本リポジトリは、中央方向の気流、超音波ミスト、中空軸構造、オフセット駆動、内部スパイラル返水構造を組み合わせた、次世代ミスト冷却ファンの機械設計仮説を日本語で整理したものです。ここに示す内容は実証済み製品ではなく、概念的・工学的提案です。実装には、冷却性能、水消費量、湿度影響、微生物安全性、電気安全性、耐久性、保守性の検証が必要です。
@@ -12,40 +12,49 @@
 **AI Collaborators:** Copi (Microsoft Copilot), G (OpenAI ChatGPT), Mini (Google Gemini), Cruz (Anthropic Claude), Real (Perplexity AI), Google Search AI  
 **Published:** 2026-05-07
 
-License
+License  
 CC BY 4.0
 
-This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
 Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 
 ---
 
-## 重要追加：熱力学的持続性能と排熱ファン・レトロフィット
+## docs 多言語文書一覧
 
-- [熱力学的持続性能と排熱ファン・レトロフィットモデル](docs/THERMODYNAMIC_ENDURANCE_AND_RETROFIT_MODEL_ja.md)
-- [Thermodynamic Endurance and Waste-Heat Fan Retrofit Model](docs/THERMODYNAMIC_ENDURANCE_AND_RETROFIT_MODEL.md)
+### 熱力学的持続性能と排熱ファン・レトロフィット
 
-本構想は、単なる小型ミストファンではなく、冷媒・ペルチェ式ハンディファンが抱える「局所冷却と総排熱増加」の問題を批判し、既存のエアコン室外機・換気ファン・公共交通・公共施設の排熱ファンを、顕熱から潜熱へ変換する冷却ノードへレトロフィットするための概念モデルでもある。
+- [日本語](docs/THERMODYNAMIC_ENDURANCE_AND_RETROFIT_MODEL_ja.md)
+- [English](docs/THERMODYNAMIC_ENDURANCE_AND_RETROFIT_MODEL.md)
+- [العربية](docs/THERMODYNAMIC_ENDURANCE_AND_RETROFIT_MODEL_ar.md)
+
+冷媒・ペルチェ式ハンディファンが抱える「局所冷却と総排熱増加」の問題を批判し、既存のエアコン室外機・換気ファン・公共交通・公共施設の排熱ファンを、顕熱から潜熱へ変換する冷却ノードへレトロフィットするための概念モデル。
+
+### DIY小型扇風機版・オフセットドライブ最適化
+
+- [日本語](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
+- [English](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION.md)
+- [العربية](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ar.md)
+
+超音波ミスト発生器と小型扇風機の最小構成から、3Dプリンタ用ミスト導入ダクト、オフセットドライブ試作、ペットボトルキャップ型量産構想までを段階的に整理した拡張ページ。
+
+### ペットボトルキャップ型 中央ミスト超音波冷却ファン構想
+
+- [日本語](docs/PET_BOTTLE_CAP_EDITION_GLOBAL_MINIMUM_STANDARD_ja.md)
+- [English](docs/PET_BOTTLE_CAP_EDITION_GLOBAL_MINIMUM_STANDARD.md)
+- [العربية](docs/PET_BOTTLE_CAP_EDITION_GLOBAL_MINIMUM_STANDARD_ar.md)
+
+28mm級ペットボトル口部を世界的に入手しやすい水タンク・インターフェースとして扱い、低重心外付け電源、安全性、乾燥地域利用、クーリングクレジット評価への接続を整理した概念ページ。
 
 ---
 
 ## クーリングクレジット多言語ポータル
 
-- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)  
   クーリングクレジット制度、MRV、Score Estimator、実装ポートフォリオ、フードロス腐葉土化、単一植生・放置林再生、センター超音波ミスト冷却ファンをつなぐ多言語ポータル。
 
----
-
-- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)  
   サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
-
-## DIY・3Dプリンタ向け小型扇風機版とオフセットドライブ最適化
-
-- [DIY小型扇風機版・オフセットドライブ最適化・ペットボトルキャップ型商品化構想](docs/DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION_ja.md)
-  超音波ミスト発生器と小型扇風機の最小構成から、3Dプリンタ用ミスト導入ダクト、オフセットドライブ試作、ペットボトルキャップ型量産構想までを段階的に整理した拡張ページ。
-
-- [ペットボトルキャップ型 中央ミスト超音波冷却ファン構想](docs/PET_BOTTLE_CAP_EDITION_GLOBAL_MINIMUM_STANDARD_ja.md)
-  28mm級ペットボトル口部を世界的に入手しやすい水タンク・インターフェースとして扱い、低重心外付け電源、安全性、乾燥地域利用、クーリングクレジット評価への接続を整理した概念ページ。
 
 ---
 
@@ -70,6 +79,8 @@ Sharing, redistribution, translation, adaptation, and reuse are permitted as lon
 
 従来のミストファンは、多くの場合、ファン外周や周辺ノズルからミストを噴霧します。本構想では、ミストをファン構造の中心、すなわち最も強い気流エネルギーが集まる領域へ直接導入することを提案します。
 
+---
+
 ## 中核問題
 
 既存のミスト冷却システムには、以下の制約があります。
@@ -84,6 +95,8 @@ Sharing, redistribution, translation, adaptation, and reuse are permitted as lon
 
 多くの市販システムでは、ミストは気流の外側やファン周辺から投入されます。その結果、ミストが気流の中心部に十分取り込まれず、熱交換効率が低下します。
 
+---
+
 ## なぜ中央注入が重要なのか
 
 回転ファンの中心領域には、以下の特徴があります。
@@ -93,40 +106,10 @@ Sharing, redistribution, translation, adaptation, and reuse are permitted as lon
 - 放射状の拡散力
 - 素早い空気輸送
 
-超音波ミストをこの気流核へ直接注入できれば、以下が期待されます。
+超音波ミストをこの気流核へ直接注入できれば、蒸発速度、空気とミストの混合、水滴蓄積の低減、冷却効率、水使用量の改善が期待されます。
 
-- 蒸発速度の向上
-- 空気とミストの混合改善
-- 水滴蓄積の低減
-- 冷却効率の向上
-- 水使用量の低減
+---
 
-しかし、ここには構造上の大きな問題があります。
+## ライセンス
 
-## 構造上の制約
-
-従来のファンでは、モーター軸が中心軸を占有しています。
-
-つまり、以下の矛盾が生じます。
-
-- 理想的なミスト注入位置は中心である。
-- しかし中心はモーター軸によって占有されている。
-
-本提案は、この制約を前提に、ファン構造そのものを再構成します。
-
-## 解決策1：オフセット駆動・周辺駆動システム
-
-第一の解決策は、モーターを中心軸から外すことです。
-
-### 構造
-
-- ファン外周にリング状の駆動構造を取り付ける。
-- ギアまたはベルト伝達により、ファンを外周から回転させる。
-- モーターは中心から外れた位置に配置する。
-- 回転エネルギーを周辺部から伝達する。
-
-これにより、中心軸をミスト注入のために開放できます。
-
-### 利点
-
-- 完全な中央ミスト注入が可能になる。
+CC BY 4.0
