@@ -45,6 +45,14 @@ A staged extension from the minimum configuration of an ultrasonic mist generato
 
 A concept page treating 28mm-class PET bottle necks as a globally accessible water-tank interface, with notes on low-center-of-gravity external power, safety, dry-region use, and Cooling Credit evaluation.
 
+### Tri-Directional Mist Cooling Stand and Bottle Cartridge
+
+- [日本語](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE_ja.md)
+- [English](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE.md)
+- [العربية](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE_ar.md)
+
+A modular extension using an inverted PET bottle water cartridge, interchangeable support frames, two upward mist fans, and one angle-adjustable mist cooling fan for outdoor AC unit surroundings, entrances, balconies, farms, shelters, and general-purpose local cooling.
+
 ---
 
 ## Cooling Credit Multilingual Portal
