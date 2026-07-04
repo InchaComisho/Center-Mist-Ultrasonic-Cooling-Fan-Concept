@@ -46,6 +46,14 @@ Sharing, redistribution, translation, adaptation, and reuse are permitted as lon
 
 28mm級ペットボトル口部を世界的に入手しやすい水タンク・インターフェースとして扱い、低重心外付け電源、安全性、乾燥地域利用、クーリングクレジット評価への接続を整理した概念ページ。
 
+### 三方向可変ミスト冷却スタンドと逆さペットボトル水カートリッジ構造
+
+- [日本語](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE_ja.md)
+- [English](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE.md)
+- [العربية](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE_ar.md)
+
+逆さペットボトル水カートリッジ、交換式支持構造、上向き2基＋角度可変1基の三方向ミスト冷却、AIセンサー制御により、室外機周辺、玄関前、ベランダ、農地、避難所、公共空間へ展開する汎用屋外冷却ノードの拡張ページ。
+
 ---
 
 ## クーリングクレジット多言語ポータル
