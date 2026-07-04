@@ -49,7 +49,42 @@ However, not every PET bottle neck is perfectly identical. Practical implementat
 
 ---
 
-## 4. Evaporative Cooling Assistance Around Outdoor AC Units
+## 4. Support Frame and Flexible Feed Tube for Inverted Mounting
+
+In the inverted PET bottle cartridge system, the bottle is first filled with water, then the dedicated cap module is tightened, and the bottle is turned upside down before being inserted into the support frame.
+
+The key point is that the cap should not carry the full weight of a filled bottle. A 1.5L to 2L bottle contains roughly 1.5kg to 2kg of water. If this load is carried only by the cap thread, water outlet, or tube connection, it may cause leakage, breakage, loosening, overturning, or connection fatigue.
+
+Therefore, the cap module should be treated as a water-sealing and feed-control part, while the bottle body should be supported by the external frame.
+
+A basic mounting sequence is as follows:
+
+1. Fill the PET bottle with water.
+2. Tighten the inverted mounting cap module.
+3. Turn the bottle upside down.
+4. Insert the bottle body into a support frame, ring, cylindrical holder, or stand.
+5. The feed tube below the cap connects to the small mist dish or flow-regulation unit.
+6. Water is supplied only as needed through the check valve, air-inlet valve, and flow regulator.
+
+The feed tube should preferably be a flexible silicone tube or an equivalent water-resistant tube, rather than rigid piping. However, the design should not rely on tube stretch itself. Instead, the tube should have enough slack to absorb small angle changes and positional tolerances during mounting.
+
+Desirable tube requirements include:
+
+- Resistant to twisting while the cap is tightened.
+- Resistant to kinking when the bottle is inverted.
+- Sufficient inner diameter for the required water feed.
+- Strain relief at the tube root.
+- Removable, cleanable, and replaceable.
+- Does not carry the bottle weight.
+- Minimizes residual stagnant water in the feed path.
+
+The support structure should hold not only the bottle neck but also the body, shoulder, or bottom-side region using rings or a cylindrical holder. A tabletop model may use a compact low-center-of-gravity holder, while an outdoor model may combine pole mounting, wall mounting, floor base, and anti-overturning rings.
+
+This structure allows the cap to focus on sealing and feed control, while the support frame carries the bottle weight. It reduces the risk of leakage, connection breakage, tube detachment, and overturning, making the inverted PET bottle cartridge easier to operate safely.
+
+---
+
+## 5. Evaporative Cooling Assistance Around Outdoor AC Units
 
 This concept can also be placed near household or commercial outdoor air-conditioning units to reduce local heat accumulation and soften hot exhaust air.
 
@@ -65,7 +100,7 @@ Therefore, this system should be designed not as a device that wets and cools th
 
 ---
 
-## 5. Tri-Directional Adjustable Mist Cooling Stand
+## 6. Tri-Directional Adjustable Mist Cooling Stand
 
 The system can be extended into a tri-directional stand that combines two upward mist fans and one angle-adjustable mist cooling fan.
 
@@ -81,7 +116,7 @@ Outdoor stands also require anti-overturning design. A weighted base, low-center
 
 ---
 
-## 6. AI and Sensor Control
+## 7. AI and Sensor Control
 
 Evaporative cooling becomes less effective in high humidity. Therefore, the device should monitor outdoor temperature, relative humidity, estimated wet-bulb temperature, wind direction, wind speed, rain, outdoor AC unit operation, wetness of the surrounding surface, overturning risk, and water level.
 
@@ -108,44 +143,51 @@ Example shutdown conditions include:
 
 ---
 
-## 7. Structural Image
+## 8. Structural Image
 
 ```mermaid
 flowchart TD
-    A[Inverted PET bottle water cartridge] --> B[Water feed and flow regulator]
-    B --> C[Small mist dish]
-    C --> D[Ultrasonic mist generator]
+    A[Inverted PET bottle water cartridge] --> B[Inverted mounting cap]
+    B --> C[Flexible feed tube]
+    C --> D[Water feed and flow regulator]
+    D --> E[Small mist dish]
+    E --> F[Ultrasonic mist generator]
 
-    D --> E[Upward mist fan left]
-    D --> F[Upward mist fan right]
-    D --> G[Angle-adjustable mist cooling fan]
+    G[Support frame / rings / cylindrical holder] --> H[Support bottle body weight]
+    H --> A
 
-    E --> H[Disperse heat accumulation above outdoor AC unit]
-    F --> H
+    F --> I[Upward mist fan left]
+    F --> J[Upward mist fan right]
+    F --> K[Angle-adjustable mist cooling fan]
 
-    G --> I[Mist cooling airflow toward exhaust direction]
-    G --> J[Airflow toward entrance / balcony / passageway]
-    G --> K[Adjustable from horizontal to vertical]
+    I --> L[Disperse heat accumulation above outdoor AC unit]
+    J --> L
 
-    L[High-capacity USB battery / USB-C PD / solar assist] --> E
-    L --> F
-    L --> G
+    K --> M[Mist cooling airflow toward exhaust direction]
+    K --> N[Airflow toward entrance / balcony / passageway]
+    K --> O[Adjustable from horizontal to vertical]
 
-    M[Temperature / humidity / wind / rain / tilt sensors] --> N[AI control]
-    N --> E
-    N --> F
-    N --> G
+    P[High-capacity USB battery / USB-C PD / solar assist] --> I
+    P --> J
+    P --> K
+
+    Q[Temperature / humidity / wind / rain / tilt sensors] --> R[AI control]
+    R --> I
+    R --> J
+    R --> K
 ```
 
-*Figure: Tri-directional adjustable mist cooling stand with inverted PET bottle water cartridge.*
+*Figure: Tri-directional adjustable mist cooling stand with inverted PET bottle cartridge, flexible feed tube, and support frame.*
 
 ---
 
-## 8. Positioning
+## 9. Positioning
 
 This tri-directional adjustable mist cooling stand is not only for outdoor AC unit surroundings. It can also serve as a general-purpose local cooling node for entrances, balconies, gardens, outdoor workspaces, farms, shelters, and public spaces.
 
 Where conventional tank-type products depend on a tank that must be cleaned after use, this system emphasizes replaceable water containers, reduced residual water inside the device, and support structures that can be changed without changing the core cooling mechanism.
+
+In addition, by limiting the cap to water sealing and feed control while the support frame carries the bottle weight, the design can reduce leakage, breakage, tube detachment, and overturning risks.
 
 It is an implementation extension of the Center-Mist Ultrasonic Cooling Fan Concept that integrates cooling performance, hygiene, maintenance, reusability, and outdoor operational safety.
 
