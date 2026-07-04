@@ -45,6 +45,14 @@ Sharing, redistribution, translation, adaptation, and reuse are permitted as lon
 
 صفحة مفهوم حول وحدة رذاذ ومروحة تُثبّت على غطاء زجاجة PET ذات فئة 28mm، بوصفها واجهة متاحة عالميًا تقريبًا لخزان الماء، مع ملاحظات حول السلامة، وخفض مركز الثقل، والاستخدام في المناطق الجافة، وربطها بتقييم أرصدة التبريد.
 
+### حامل تبريد بالرذاذ ثلاثي الاتجاهات وخرطوشة زجاجة PET
+
+- [日本語](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE_ja.md)
+- [English](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE.md)
+- [العربية](docs/TRI_DIRECTIONAL_MIST_COOLING_STAND_AND_BOTTLE_CARTRIDGE_ar.md)
+
+صفحة امتداد تستخدم خرطوشة مياه من زجاجة PET مقلوبة، وهياكل دعم قابلة للاستبدال، ومروحتين علويتين للرذاذ، ومروحة تبريد بالرذاذ قابلة لتعديل الزاوية، لتبريد محيط وحدات التكييف الخارجية والمداخل والشرفات والمزارع ومراكز الإيواء والفضاءات العامة.
+
 ---
 
 ## بوابة أرصدة التبريد متعددة اللغات
