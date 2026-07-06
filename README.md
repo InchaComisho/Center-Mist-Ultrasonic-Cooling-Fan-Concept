@@ -5,6 +5,8 @@ Hollow Shaft, Offset Drive, and Spiral Return Structure for High-Efficiency Evap
 > 日本語: [README_ja.md](./README_ja.md)  
 > العربية: [README_ar.md](./README_ar.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 An open mechanical concept proposal for next-generation ultrasonic mist cooling systems using center-directed airflow, hollow shaft architecture, offset-drive fan systems, and internal spiral water-return structures.
 
 Author: Master (inchacomisho / inchacomusho)  

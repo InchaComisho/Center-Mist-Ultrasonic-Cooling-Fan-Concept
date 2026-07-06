@@ -1,5 +1,7 @@
 # 中央ミスト型超音波冷却ファン構想
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 中空軸・オフセット駆動・スパイラル返水構造による高効率気化冷却
 
 > English version: [README.md](./README.md)  
