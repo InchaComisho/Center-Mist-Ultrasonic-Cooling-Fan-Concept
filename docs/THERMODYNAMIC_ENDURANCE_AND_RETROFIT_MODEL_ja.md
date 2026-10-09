@@ -4,7 +4,7 @@
 
 [English](THERMODYNAMIC_ENDURANCE_AND_RETROFIT_MODEL.md)
 
-関連トップ: [README_ja.md](../README_ja.md) | [README.md](../README.md)
+関連トップ: [README_ja.md](../README_ja.md) | [README.md](../README_ja.md)
 
 ---
 
