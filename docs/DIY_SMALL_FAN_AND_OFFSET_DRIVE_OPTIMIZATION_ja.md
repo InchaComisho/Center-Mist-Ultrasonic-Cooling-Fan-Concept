@@ -1,5 +1,7 @@
 # DIY小型扇風機版・オフセットドライブ最適化・ペットボトルキャップ型商品化構想
 
+[English Version](DIY_SMALL_FAN_AND_OFFSET_DRIVE_OPTIMIZATION.md)
+
 ## Center-Mist Ultrasonic Cooling Fan Concept Extension
 
 [← README_ja.mdへ戻る](../README_ja.md)

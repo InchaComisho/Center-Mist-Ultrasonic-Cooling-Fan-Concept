@@ -1,5 +1,7 @@
 # ペットボトルキャップ型 中央ミスト超音波冷却ファン構想
 
+[English Version](PET_BOTTLE_CAP_EDITION_GLOBAL_MINIMUM_STANDARD.md)
+
 ## PET Bottle Cap Edition Global Minimum Standard
 
 [← README_ja.mdへ戻る](../README_ja.md)
