@@ -1,16 +1,16 @@
-# Related Links: Cooling Credit Local Pilot Model
+# 関連リンク：クーリングクレジットの地域パイロットモデル
 
-[日本語版はこちら / Japanese version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS_ja.md)
+[English Version](RELATED_COOLING_CREDIT_LOCAL_PILOT_LINKS.md)
 
-## Center-Mist と地域冷却実証への接続
+## Center-Mistと地域冷却実証への接続
 
-The **Center-Mist Ultrasonic Cooling Fan Concept** can serve as one technical candidate for local Cooling Credit pilots, especially in outdoor AC waste-heat mitigation, public facilities, shelters, bus stops, shopping streets, and dry-region local cooling.
+**センターミスト超音波冷却ファンの構想**は、特に室外機の排熱の緩和、公共施設、避難所、バス停、商店街、乾燥地域の局所冷却において、クーリングクレジットの地域パイロットのための、一つの技術的候補となりえます。
 
-**Cooling Credit Local Pilot Model** provides the practical MRV and implementation entry point for testing such cooling actions at small regional scales.
+**クーリングクレジットの地域パイロットモデル**は、そうした冷却の取り組みを小さな地域規模で試験するための、実践的なMRVと実装の入口を提供します。
 
 ---
 
-## Main Link / 主要リンク
+## 主要リンク
 
 - [Cooling-Credit-Local-Pilot-Model](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model)
 - [日本語 README](https://github.com/InchaComisho/Cooling-Credit-Local-Pilot-Model/blob/main/README_ja.md)
@@ -19,7 +19,7 @@ The **Center-Mist Ultrasonic Cooling Fan Concept** can serve as one technical ca
 
 ---
 
-## Use-Case Connection
+## ユースケースの接続
 
 ```text
 Center-Mist Device / Retrofit Concept
@@ -35,7 +35,7 @@ Cooling Credit Pilot
 
 ---
 
-## Related Repositories
+## 関連リポジトリ
 
 - [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
 - [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
